@@ -1,9 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/python 
 # -*- coding: utf-8 -*-
 import os
 import glob
 import time
 import sys
+
+# test 
 
 os.system('modprobe w1-gpio')
 os.system('modprobe w1-therm')
